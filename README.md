@@ -43,7 +43,6 @@ pip install -r requirements.txt
 
 ![image](https://github.com/kbigdata005/web_server/assets/139095086/ae2a74f9-df59-447e-b0ca-249d26dd935e)
 
-
 위와 같은 구조로 웹서버를 만든다.
 
 ![image](https://github.com/kbigdata005/web_server/assets/139095086/15a7cc1e-aaa6-4129-9b7e-47ccc859d982)
